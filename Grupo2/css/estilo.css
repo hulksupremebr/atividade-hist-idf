@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+.borda{
+    border-style: solid;
+    border-width: 30px;
+    border-color: #F2CD5C;
+}
+.margem{
+    margin: 15px;
+}
+h1,h2{
+    color: #F2CD5C;
+    padding: 10px;
+}
+img{
+    height: 250px;
+}
+.menu{
+    background-color: #F2CD5C;
+    padding: 10px;
+    margin: 20px 0px 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.principal{
+    display: flex;
+    justify-content: space-between;
+}
+.rodape{
+    margin: 0;
+    padding: 10px;
+    background: #F2CD5C;
+    text-align: center;
+}
+.formulario{
+    text-align: center;
+}
+.engenhoimg img{
+    height: 400px;
+}
